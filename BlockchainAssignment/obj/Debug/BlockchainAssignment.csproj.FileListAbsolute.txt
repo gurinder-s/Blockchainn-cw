@@ -1,0 +1,10 @@
+\\dfs.rdg.ac.uk\homes\zm008304\My Documents\BlockchainAssignment\BlockchainAssignment\bin\Debug\BlockchainAssignment.exe.config
+\\dfs.rdg.ac.uk\homes\zm008304\My Documents\BlockchainAssignment\BlockchainAssignment\bin\Debug\BlockchainAssignment.exe
+\\dfs.rdg.ac.uk\homes\zm008304\My Documents\BlockchainAssignment\BlockchainAssignment\bin\Debug\BlockchainAssignment.pdb
+\\dfs.rdg.ac.uk\homes\zm008304\My Documents\BlockchainAssignment\BlockchainAssignment\obj\Debug\BlockchainAssignment.csprojAssemblyReference.cache
+\\dfs.rdg.ac.uk\homes\zm008304\My Documents\BlockchainAssignment\BlockchainAssignment\obj\Debug\BlockchainAssignment.BlockchainApp.resources
+\\dfs.rdg.ac.uk\homes\zm008304\My Documents\BlockchainAssignment\BlockchainAssignment\obj\Debug\BlockchainAssignment.Properties.Resources.resources
+\\dfs.rdg.ac.uk\homes\zm008304\My Documents\BlockchainAssignment\BlockchainAssignment\obj\Debug\BlockchainAssignment.csproj.GenerateResource.cache
+\\dfs.rdg.ac.uk\homes\zm008304\My Documents\BlockchainAssignment\BlockchainAssignment\obj\Debug\BlockchainAssignment.csproj.CoreCompileInputs.cache
+\\dfs.rdg.ac.uk\homes\zm008304\My Documents\BlockchainAssignment\BlockchainAssignment\obj\Debug\BlockchainAssignment.exe
+\\dfs.rdg.ac.uk\homes\zm008304\My Documents\BlockchainAssignment\BlockchainAssignment\obj\Debug\BlockchainAssignment.pdb
